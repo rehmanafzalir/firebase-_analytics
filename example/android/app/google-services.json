@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917527854658",
+    "project_id": "fir-push-notifications-t",
+    "storage_bucket": "fir-push-notifications-t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917527854658:android:70f99e0e700d7a009c37db",
+        "android_client_info": {
+          "package_name": "com.example.testnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0FLBbsZBag75jHmygb79I3iaeCLeMyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
